@@ -1,8 +1,8 @@
 -- Meditate on changing data with "UPDATE"
-_____ book
+update book
 set available = 1
 where id = 2
 
 -- Meditate on removing data with "DELETE"
-_____ from customer
+delete from customer
 where id = 20001
